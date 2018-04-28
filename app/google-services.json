@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "923420238776",
+    "firebase_url": "https://tracklocation-199808.firebaseio.com",
+    "project_id": "tracklocation-199808",
+    "storage_bucket": "tracklocation-199808.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923420238776:android:8adf2acdd8b23d1c",
+        "android_client_info": {
+          "package_name": "com.example.tez.trackuserlocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923420238776-m2iasgungcctgofh936p7b11anaa8qdt.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "923420238776-q8f1rb0srqum427t4culuh9ede4696mm.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "923420238776-kqgcudim0td0tn6jbjs77ej0jeu7790k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tez.trackuserlocation",
+            "certificate_hash": "4ddc2830c0ef6044c68c89f649bcce6cbb39c5d6"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMVClg1zmX4BQMuQOSjzn2ezTuBXePMXI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923420238776-m2iasgungcctgofh936p7b11anaa8qdt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

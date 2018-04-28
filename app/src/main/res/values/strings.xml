@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">TrackUserLocation</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="faculty_signup"><b>Faculty Signup</b></string>
+    <string name="student_detail">Student Details</string>
+    <string name="faculty_detail">Faculty Details</string>
+    <string name="college">College</string>
+    <string name="parents">Parents</string>
+    <string name="classes">Classes</string>
+    <string name="exam">Exams</string>
+    <string name="library">Library</string>
+    <string name="student_status">Student Status</string>
+    <array name="login_type">
+        <item>Select</item>
+        <item>Student</item>
+        <item>Faculty</item>
+        <item>Admin</item>
+    </array>
+    <array name="branch">
+        <item>Select Branch</item>
+        <item>COMPUTER SCIENCE and ENGINEERING</item>
+        <item>ELECTRONICS ENGINEERING</item>
+        <item>ELECTRICAL ENGINEERING</item>
+        <item>MECHANICAL ENGINEERING</item>
+        <item>CIVIL ENGINERING</item>
+        <item>INFORMATION TECHNOLOGY</item>
+    </array>
+    <array name="year">
+        <item>Select Year</item>
+        <item>First Year</item>
+        <item>Second Year</item>
+        <item>Third Year</item>
+        <item>Fourth Year</item>
+    </array>
+    <array name="ftype">
+        <item>select faculty type</item>
+        <item>Asst. professor</item>
+        <item>H.O.D.</item>
+        <item>Dean Acadmic</item>
+    </array>
+    <array name="fdepartment">
+        <item>Select Faculty Department</item>
+        <item>Computer Science Engineering</item>
+        <item>Electronics Engineering</item>
+        <item>Electrical Engineering</item>
+    </array>
+</resources>
